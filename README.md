@@ -6,9 +6,14 @@ Sou um analista de segurança cibernética imensamente determinado e meticuloso.
   <li>Auditorias</li> 
   
 <a href="https://auditoriadesegurança.com" style="font-style: italic">
-      Auditoria de Segurança
+      
 </a>
-
-
+<li>
+  <a href="https://github.com/Fp-eng/Auditoria-de-Seguran-a">
+  <font style="vertical-align: inherit;">
+<font style="vertical-align: inherit;">Auditoria de Segurança</font>
   
+</a>
+</li>
+
   
